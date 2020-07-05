@@ -1,0 +1,6 @@
+1. Created a new environment (carprediction)---3.7
+2. Working directory (launched jupyter notebook)
+3. Build the model
+4. Generate pickle file
+5. Create requirements.txt in the prompt (pip freeze > requirements.txt)
+6. Creating the frontend (app.py)
