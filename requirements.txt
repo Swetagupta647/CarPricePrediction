@@ -7,7 +7,7 @@ cycler==0.10.0
 decorator==4.4.2
 defusedxml==0.6.0
 entrypoints==0.3
-
+importlib-metadata @ file:///C:/ci/importlib-metadata_1593446525189/work
 ipykernel==5.3.0
 ipython @ file:///C:/ci/ipython_1593433781269/work
 ipython-genutils==0.2.0
