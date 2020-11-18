@@ -27,7 +27,7 @@ mkl-service==2.3.0
 nb-conda-kernels==2.2.3
 nbconvert==5.6.1
 nbformat==5.0.7
-notebook==6.0.3
+notebook==6.1.5
 numpy==1.18.5
 packaging==20.4
 pandas @ file:///C:/ci/pandas_1592841747005/work
